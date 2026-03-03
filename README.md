@@ -1,4 +1,5 @@
-# Vanilla-website-utils
+![Vanilla-website-utils](public/img/logo_192x192.png) Vanilla-website-utils
+
 Vanilla JS utility functions
 for daily website usage
 
