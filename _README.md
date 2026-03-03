@@ -12,7 +12,7 @@ A collection of lightweight, dependency-free JavaScript utilities for common web
 *   **Lightweight:**  Small footprint for minimal impact on page load times.
 *   **Modular:**  Use only the utilities you need.
 *   **Well-Documented:** Clear and concise documentation for easy integration.
-*   **MIT Licensed:**  Free to use in personal and commercial projects.
+*   **GNU3 Licensed:**  Free to use.
 
 ## Installation
 
